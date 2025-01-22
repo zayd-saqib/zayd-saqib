@@ -1,10 +1,11 @@
 ## Hey.
 
 I make Linux related configurations, like dotfiles.\
-If you want to contact me, email me on this address: zaydsaqib20@gmail.com\
+If you want to contact me, email me on this address: zaydsaqib20@gmail.com
+
 
 Currently im trying to learn more about the inner workings of Linux.\
-You can ask me about configuration and customization things.\
+You can ask me about configuration and customization things.
 
 <!--
 **zayd-saqib/zayd-saqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
